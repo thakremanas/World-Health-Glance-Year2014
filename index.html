@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> <meta charset="UTF-8"> </head>
+
+<style>
+
+body { 
+	font: 13px serif; 
+	background-color: rgb(216, 221, 222); }
+
+.name{
+	  position: relative;
+	  top: 90px;
+	  text-align: left;
+	  font-weight: bold; }
+
+	
+	
+.title { 
+	position: relative; 
+	text-align: center; 
+	font-size: 23px; }
+
+.axis path, .axis line { 
+	fill: none; 
+	stroke: #9d6060; 
+	shape-rendering: crispEdges; }
+
+.dot { stroke: #ffffff; }
+
+#Check_box { 
+	position: absolute; 
+	visibility: visible; 
+	left: 160px; top: 80px; }
+
+
+#Drop_1 {
+	  position: relative;
+	  top: 0px;
+	  left: 0px; }
+
+#Drop_2 {
+	position: relative;
+	bottom: 0px;
+	left: 0px; }
+
+#ChooseX {
+	position: absolute;
+	top: 588px;
+	left: 0px; }
+
+
+#ChooseY {
+	position: absolute;
+	top: 588px;
+	left: 420px; }
+
+.tooltip{
+	position: absolute;
+	width: 300px;
+	height: 28px;
+	pointer-events: none; }	
+
+</style>
+
+
+<body>
+	<img src="Z_img.jpg" alt="Legend" style="position:absolute;top:250px; left:1050px; width:270px; height:135px;">
+	<div class="layout">
+    	<h1><ul><u><i style="color: #4a08c7;">Relation between Health parameters that affect Infant's life : Year 2014 (Source: World Bank)</i></u></ul>
+		</h1>
+		<h3><ul><u><i style="color: #4a08c7;">By: Manas Thakre</i></u></ul></h3>
+         
+	<div id="chart"></div>
+	
+	
+  	</div>
+	
+	
+  	<script src="https://d3js.org/d3.v3.min.js"></script>
+  	<script src="visualization.js"></script> 
+
+
+
+	<div id="Check_box">
+		<h3>
+			<b style="color: #4a08c7;">Select Countries based on Economic Status: </b>
+	  
+			<input name='type' value="Lower Income Countries" type="checkbox" checked><i>Lower Income </span></i>
+			</input>
+	  	
+			<input name="type" value="Lower-Middle Income Countries" type="checkbox" checked ><i>Lower-Middle Income</i>
+			</input>
+	   	
+			<input name="type" value="Upper-Middle Income Countries" type="checkbox" checked ><i>Upper-Middle Income</i>
+		  	</input>
+	   	
+			<input name="type" value="High Income Countries" type="checkbox" checked ><i>High Income</i>
+		  	</input>
+</h3>
+</div>
+
+
+	<div id="ChooseX"><b style="color:#4a08c7;">Choose X-Axis:</b>
+		  <select name="X_Name" id="Drop_1">
+				<option value ="HealthcareGDPperCapita">Health GDP per Capita</option>
+				<option value ="InfantMortalityRate">IMR per 1000 live births</option>
+				<option value ="BirthRate">Births per 1000 people</option>
+				<option value ="Fertility">Fertility</option>
+		  </select>
+		</div>
+
+	<div id="ChooseY"><b style="color: #4a08c7;">Choose Y-Axis:</b>
+		  <select name="Y_Name" id="Drop_2">
+				  <option value ="InfantMortalityRate">IMR per 1000 live births</option>
+				  <option value ="HealthcareGDPperCapita">Health GDP per Capita</option>	   	
+				  <option value ="BirthRate">Births per 1000 people</option>
+				  <option value ="Fertility">Fertility</option>
+		  </select>  
+			</div>
+  <br>
+
+</body>

@@ -1,0 +1,169 @@
+Country,EconomicStatus,HealthcareGDPperCapita,InfantMortalityRate,BirthRate,Fertility
+Afghanistan,Lower Income Countries,57,68,34,5
+Albania,Upper-Middle Income Countries,272,13,13,2
+Algeria,Upper-Middle Income Countries,362,22,24,3
+Angola,Lower-Middle Income Countries,179,99,45,6
+Argentina,Upper-Middle Income Countries,605,12,18,2
+Armenia,Lower-Middle Income Countries,162,13,13,2
+Australia,High Income Countries,6031,3,13,2
+Austria,High Income Countries,5580,3,10,1
+Azerbaijan,Upper-Middle Income Countries,471,29,18,2
+"Bahamas, The",Upper-Middle Income Countries,1720,10,15,2
+Bahrain,High Income Countries,1243,6,15,2
+Bangladesh,Lower Income Countries,31,32,20,2
+Barbados,High Income Countries,1146,12,12,2
+Belarus,Upper-Middle Income Countries,450,4,13,2
+Belgium,High Income Countries,4884,3,11,2
+Belize,Upper-Middle Income Countries,279,15,23,3
+Benin,Lower Income Countries,38,66,36,5
+Bhutan,Lower-Middle Income Countries,89,28,18,2
+Bolivia,Lower-Middle Income Countries,209,32,24,3
+Bosnia and Herzegovina,Upper-Middle Income Countries,464,5,9,1
+Botswana,Upper-Middle Income Countries,385,36,25,3
+Brazil,Upper-Middle Income Countries,947,14,15,2
+Bulgaria,Upper-Middle Income Countries,662,10,9,1
+Burkina Faso,Lower Income Countries,35,62,40,6
+Burundi,Lower Income Countries,22,56,44,6
+Cabo Verde,Lower-Middle Income Countries,173,21,21,2
+Cambodia,Lower Income Countries,61,26,24,3
+Cameroon,Lower-Middle Income Countries,59,59,37,5
+Canada,High Income Countries,5292,4,11,2
+Central African Republic,Lower Income Countries,16,94,34,4
+Chad,Lower Income Countries,37,87,45,6
+Chile,Upper-Middle Income Countries,1137,7,13,2
+China,Upper-Middle Income Countries,420,10,12,2
+Colombia,Upper-Middle Income Countries,569,14,16,2
+Comoros,Lower Income Countries,57,57,34,4
+"Congo, Dem. Rep.",Lower Income Countries,19,77,42,6
+"Congo, Rep.",Lower-Middle Income Countries,162,34,37,5
+Costa Rica,Upper-Middle Income Countries,970,9,15,2
+Cote d'Ivoire,Lower Income Countries,88,69,37,5
+Croatia,High Income Countries,1050,4,9,1
+Cuba,Upper-Middle Income Countries,817,4,10,2
+Cyprus,High Income Countries,1819,3,11,1
+Czech Republic,High Income Countries,1379,3,10,1
+Denmark,High Income Countries,6463,3,10,2
+Djibouti,Lower-Middle Income Countries,191,56,25,3
+Dominican Republic,Upper-Middle Income Countries,269,26,21,2
+Ecuador,Upper-Middle Income Countries,579,19,21,3
+"Egypt, Arab Rep.",Lower-Middle Income Countries,178,21,28,3
+El Salvador,Lower-Middle Income Countries,280,15,17,2
+Equatorial Guinea,Lower Income Countries,663,70,35,5
+Eritrea,Lower Income Countries,25,35,34,4
+Estonia,High Income Countries,1248,3,10,2
+Ethiopia,Lower Income Countries,27,43,32,4
+Fiji,Lower-Middle Income Countries,204,19,20,3
+Finland,High Income Countries,4612,2,11,2
+France,High Income Countries,4959,4,12,2
+Gabon,Upper-Middle Income Countries,321,37,30,4
+"Gambia, The",Lower Income Countries,31,49,42,6
+Georgia,Lower-Middle Income Countries,303,11,14,2
+Germany,High Income Countries,5411,3,9,1
+Ghana,Lower-Middle Income Countries,58,44,33,4
+Greece,High Income Countries,1743,4,9,1
+Grenada,Lower-Middle Income Countries,506,11,19,2
+Guatemala,Lower-Middle Income Countries,233,25,27,3
+Guinea,Lower Income Countries,30,63,37,5
+Guinea-Bissau,Lower Income Countries,37,62,37,5
+Guyana,Lower-Middle Income Countries,222,33,19,3
+Haiti,Lower Income Countries,61,54,25,3
+Honduras,Lower-Middle Income Countries,212,18,21,2
+Hungary,High Income Countries,1037,5,10,1
+Iceland,High Income Countries,4662,2,13,2
+India,Lower-Middle Income Countries,75,39,20,2
+Indonesia,Lower-Middle Income Countries,99,24,20,2
+"Iran, Islamic Rep.",Upper-Middle Income Countries,351,14,18,2
+Ireland,High Income Countries,4239,3,14,2
+Israel,High Income Countries,2910,3,21,3
+Italy,High Income Countries,3258,3,8,1
+Japan,High Income Countries,3703,2,8,1
+Jordan,Upper-Middle Income Countries,359,16,27,3
+Kazakhstan,Upper-Middle Income Countries,539,14,23,3
+Kenya,Lower Income Countries,78,37,35,4
+Kiribati,Lower-Middle Income Countries,154,45,29,4
+"Korea, Rep.",High Income Countries,2060,3,9,1
+Kuwait,High Income Countries,1386,8,20,2
+Kyrgyz Republic,Lower Income Countries,82,20,28,3
+Lao PDR,Lower-Middle Income Countries,33,52,27,3
+Latvia,Upper-Middle Income Countries,921,7,11,2
+Lebanon,Upper-Middle Income Countries,569,7,15,2
+Lesotho,Lower-Middle Income Countries,105,71,29,3
+Liberia,Lower Income Countries,46,55,35,5
+Luxembourg,High Income Countries,8138,2,11,2
+"Macedonia, FYR",Upper-Middle Income Countries,354,5,11,2
+Madagascar,Lower Income Countries,14,37,34,4
+Malawi,Lower Income Countries,29,45,39,5
+Malaysia,Upper-Middle Income Countries,456,6,17,2
+Maldives,Lower-Middle Income Countries,1165,8,21,2
+Mali,Lower Income Countries,48,76,44,6
+Mauritania,Lower-Middle Income Countries,49,66,33,5
+Mauritius,Upper-Middle Income Countries,482,12,11,1
+Mexico,Upper-Middle Income Countries,677,12,19,2
+"Micronesia, Fed. Sts.",Lower-Middle Income Countries,415,29,24,3
+Moldova,Lower-Middle Income Countries,229,14,11,1
+Mongolia,Lower-Middle Income Countries,195,20,24,3
+Montenegro,High Income Countries,458,5,12,2
+Morocco,Lower-Middle Income Countries,190,25,21,3
+Mozambique,Lower Income Countries,42,59,39,5
+Myanmar,Lower Income Countries,20,41,18,2
+Namibia,Upper-Middle Income Countries,499,33,30,4
+Nepal,Lower Income Countries,40,31,21,2
+Netherlands,High Income Countries,5694,3,10,2
+New Zealand,High Income Countries,4896,5,13,2
+Nicaragua,Lower-Middle Income Countries,177,19,20,2
+Niger,Lower Income Countries,24,58,49,8
+Nigeria,Lower-Middle Income Countries,118,72,40,6
+Norway,High Income Countries,9522,2,12,2
+Oman,High Income Countries,675,10,20,3
+Pakistan,Lower-Middle Income Countries,36,67,29,4
+Panama,Upper-Middle Income Countries,959,15,19,2
+Papua New Guinea,Lower-Middle Income Countries,92,46,29,4
+Paraguay,Lower-Middle Income Countries,464,18,21,3
+Peru,Upper-Middle Income Countries,359,14,20,2
+Philippines,Lower-Middle Income Countries,135,23,24,3
+Poland,High Income Countries,910,5,10,1
+Portugal,High Income Countries,2097,3,8,1
+Russian Federation,Upper-Middle Income Countries,893,9,13,2
+Rwanda,Lower Income Countries,52,33,32,4
+Samoa,Lower Income Countries,301,15,26,4
+Sao Tome and Principe,Lower Income Countries,166,36,34,5
+Saudi Arabia,High Income Countries,1147,13,20,3
+Senegal,Lower-Middle Income Countries,50,42,38,5
+Serbia,Upper-Middle Income Countries,633,6,9,1
+Seychelles,Lower-Middle Income Countries,494,12,17,2
+Sierra Leone,Lower Income Countries,86,90,36,5
+Singapore,High Income Countries,2752,2,10,1
+Slovak Republic,High Income Countries,1455,6,10,1
+Slovenia,High Income Countries,2161,2,10,2
+Solomon Islands,Lower Income Countries,102,24,30,4
+South Africa,Upper-Middle Income Countries,570,34,21,2
+Spain,High Income Countries,2658,4,9,1
+Sri Lanka,Lower-Middle Income Countries,127,9,16,2
+St. Lucia,Lower-Middle Income Countries,500,13,15,2
+Sudan,Lower-Middle Income Countries,130,49,33,4
+Suriname,Lower-Middle Income Countries,589,20,18,2
+Swaziland,Lower-Middle Income Countries,248,46,30,3
+Sweden,High Income Countries,6808,2,12,2
+Switzerland,High Income Countries,9674,4,10,2
+Syrian Arab Republic,Lower-Middle Income Countries,66,12,23,3
+Tajikistan,Lower Income Countries,76,40,31,3
+Tanzania,Lower Income Countries,52,36,39,5
+Thailand,Upper-Middle Income Countries,360,11,11,2
+Timor-Leste,Lower Income Countries,57,46,38,5
+Togo,Lower Income Countries,34,54,36,5
+Trinidad and Tobago,High Income Countries,1136,19,14,2
+Tunisia,Upper-Middle Income Countries,305,13,19,2
+Turkey,Upper-Middle Income Countries,568,12,17,2
+Uganda,Lower Income Countries,52,39,43,6
+Ukraine,Lower-Middle Income Countries,203,8,11,1
+United Arab Emirates,High Income Countries,1611,6,11,2
+United Kingdom,High Income Countries,3935,4,12,2
+United States,High Income Countries,9403,6,13,2
+Uruguay,Upper-Middle Income Countries,1442,9,14,2
+Uzbekistan,Lower-Middle Income Countries,124,35,23,2
+Vanuatu,Lower Income Countries,158,24,26,3
+"Venezuela, RB",Upper-Middle Income Countries,873,13,20,2
+Vietnam,Lower-Middle Income Countries,142,18,17,2
+"Yemen, Rep.",Lower-Middle Income Countries,80,35,32,4
+Zambia,Lower-Middle Income Countries,86,45,40,5
+Zimbabwe,Lower Income Countries,58,48,35,4
