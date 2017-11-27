@@ -3,7 +3,7 @@ This visualization attempts to see how the world performed in terms of 4 key imp
 
 Nations have struggled through many decades, to bring down their Infant Mortality Rates (IMR) and to increase the chances of live births. With the help of Visualization, I am trying to explore if there are any associations/ patterns that emerge when we try to compare two different parameters. By including Healthcare GDP, I am also trying to see if the economic status of the country has any role on IMR. 
 
-### Link to the engine page : [World Health in Year 2014](https://thakremanas.github.io/Twitter-Sentiment-Analysis-Engine/)
+### Link to the engine page : [World Health in Year 2014](https://thakremanas.github.io/World-Health-Glance-Year2014/)
 
 Some Interesting Patterns:
 
